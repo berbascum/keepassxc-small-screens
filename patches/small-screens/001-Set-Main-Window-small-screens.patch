@@ -1,0 +1,20 @@
+diff --git a/src/gui/MainWindow.ui b/src/gui/MainWindow.ui
+index 7708df2f..6ccb8d7c 100644
+--- a/src/gui/MainWindow.ui
++++ b/src/gui/MainWindow.ui
+@@ -9,13 +9,13 @@
+    <rect>
+     <x>0</x>
+     <y>0</y>
+-    <width>800</width>
++    <width>400</width>
+     <height>600</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+-    <width>800</width>
++    <width>400</width>
+     <height>500</height>
+    </size>
+   </property>
